@@ -222,4 +222,9 @@ Purpose of the app
 The Purpose of this app is to show the user The minimum and maximum temperature ,The average temperature of day and how hot or cold the day will be The temperature app is solving a knowledge problem and informing the user what to expect on a day to day basis. The target Audience for this app is young people in university or college.This app has three screen which allows the user to insert their Name and surname and student number.The app also allows the user to insert a specific day and it will then show the user the minimum and the maximum temperature of that specific day in the week.The app is user friendly with bright colours to attract the users attention. 
     
 ![image](https://github.com/VCPTA/haw1-imad5112-practicum-submission-Tebogo7777777777/assets/164181125/a165f5f7-a135-4bbb-ab69-1de6cabc2185)
+![image](https://github.com/Tebogo7777777777/Practicum-for-Imad-ST10435751-Tebogo-Nchabeleng/assets/164181125/8bbaa956-67b8-40ad-8a9e-47a2067da065)
+![image](https://github.com/Tebogo7777777777/Practicum-for-Imad-ST10435751-Tebogo-Nchabeleng/assets/164181125/c58ee392-7e2f-4900-8648-8ae5368cd555)
+
+
+
 
